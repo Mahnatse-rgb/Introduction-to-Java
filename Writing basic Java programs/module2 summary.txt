@@ -3,20 +3,12 @@ Module Two Summary
 - Open and close comment tags (/* and **/) were used to insert comments in the code. 
 - Curly braces (brackets) are inserted beneath the public class name - the Java code is written within the curly braces. 
 - When Java code is written in Eclipse, suggestions automatically appear, helping the user to write the code. 
-- Keywords used in the code, such as: public, static and void were briefly explained in relation to the function of
-programs. For example 'static' means that the main function does not relate to an object; 'void' means that the function
-returns no value. 
+- Keywords used in the code, such as: public, static and void were briefly explained in relation to the function of programs. For example 'static' means that the main function does not relate to an object; 'void' means that the function returns no value. 
 - The code: System.out.print is used to instruct the program to print or display the output. 
-- Defining variables in Java programs was demonstrated. Variables store data that programs can manipulate. 
-Different variable types have different capacities for size, layout and the range of values that can be stored in memory. 
-- The concept of strings was discussed. Strings are a sequence of characters. They are considered as objects in Java. 
-String classes are used to create and manipulate strings. String objects are created by using a keyword and a constructor.
-String classes contain around 13 constructors that determine the value of the string. 
+- Defining variables in Java programs was demonstrated. Variables store data that programs can manipulate. Different variable types have different capacities for size, layout and the range of values that can be stored in memory. 
+- The concept of strings was discussed. Strings are a sequence of characters. They are considered as objects in Java. String classes are used to create and manipulate strings. String objects are created by using a keyword and a constructor. String classes contain around 13 constructors that determine the value of the string. 
 
-- Properties and variables for the string are written between curly braces. Values such as number, text, name and greeting
-are written as strings and as print out commands. It is important to use quotation marks with strings, so they are
-recognised by Java. 
-
+- Properties and variables for the string are written between curly braces. Values such as number, text, name and greeting are written as strings and as print out commands. It is important to use quotation marks with strings, so they are recognised by Java. 
 Any syntax errors highlighted in Eclipse need to be corrected before the program will run. 
 - Using a 'while loop' in Java was demonstrated. A while loop statement in Java, is something that repeatedly executes a target statement, as long as a given condition is true. A set of instructions is provided to the program and it executes code, until a given condition is met. 
 - A basic 'for loop' program was demonstrated in Java. For Loop is a repetition control structure, that allows you to efficiently write a loop that needs to be performed a specific number of times. 
