@@ -1,0 +1,8 @@
+- In this module, the use of Java arrays was demonstrated. 
+- An array stores a fixed volume of elements. It is a container object, that holds a fixed number of values of the same type, or a bracketed list containing multiple variables. Instead of declaring a single variable, a range of variables can be declared in one array. 
+- Java string arrays were demonstrated. String arrays allow the user to declare, populate and iterate values. They are frequently used in Java programming. 
+- The size of an array is specified and each item in an array is assigned a position. Each item is populated with an element. When the program is run, the size of the array is displayed, together with each item in the array. 
+- The use of multi-dimensional arrays in Java was demonstrated. Arrays contain references to objects and arrays themselves are references. It is possible therefore to use arrays of arrays. 
+- Multi-dimensional arrays can be compared to matrices, e.g. 2 x 2, 2 x 3 etc. Properties (strings and elements) are specified in a two-dimensional array. Elements are added to the string and a 'for loop' is written to define the output properties. When the program is run, the output displays the two-dimensional array, e.g. cartoons and their characters.
+
+

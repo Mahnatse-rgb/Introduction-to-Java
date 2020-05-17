@@ -1,0 +1,7 @@
+After completing this module you will be able to:
+
+- Describe the use of arrays in Java
+- Understand the role of elements, container objects and variables
+- Explain how 'for loops' are used in arrays
+- Demonstrate the use of 'strings' in arrays
+- Create multi-dimensional arrays in a simple Java program 
