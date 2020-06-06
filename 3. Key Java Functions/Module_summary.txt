@@ -1,0 +1,26 @@
+- The difference between Java classes and objects was demonstrated. Java is an object-oriented language. Objects, like dogs, have states and behaviours, for example: colour, name, breed, wagging, sleeping, eating. 
+- An object is an instance of a class. A class can be defined as a template or blueprint, that describes the state or behaviour of an object. 
+- In software development, methods operate on the internal state of an object and object to object communication is conducted via different methods. A class is a blueprint from which individual objects are created. 
+- The concept of methods was demonstrated. A method is a set of code that is referred to by name, which can be called upon or invoked, at any point in the program. 
+- Each method has its own name. There can be multiple methods within a program. It can be thought of as a sub-program, that acts on data and returns a value. 
+- Using methods is a way of saving time; it allows for the repetition of sections of code, without having to re-type the code. 
+- The Get and Return method in Java was demonstrated and the difference between the Print and PrintIn method was discussed. 
+- The student is advised to practice with the code demonstrated in the lessons. 
+- Working with Java methods and parameters was covered. A method can also be referred to as a function. A parameter is a technical term, that refers to the value contained between round brackets in method headers
+- The concept of 'getters' and 'setters' in Java was demonstrated. The analogy of a real-life dog was used, to illustrate the concepts of class, characteristics, objects and variables
+- Whereas the syntax 'public' is used for the class dog, 'private' is used to designate characteristics such as legs, tail and hair. 
+- The difference between a constructor and a method, is that the constructor is 'public', without the keyword static and it has no return type - there are no parameters within the parentheses. 
+- The default constructor is created automatically when creating Java objects. 
+- Getters are created, so that objects and classes can access the variables of other objects and classes. 
+- Setters allow access to an object's variables, so that they can be changed. 
+- Using constructors in Java was demonstrated. A constructor is a special type of method, that is used to initialize an object.
+- The constructor is invoked at the time of the object's creation. It constructs the values and provides data for the object.
+- Simply put, a constructor provides data for an object. 
+- Rules re. constructors: 1) the constructor name must be the same as the class name, 2) the constructor (unlike a method) must have no explicit return type. 
+- There are two types of constructors: 1) the default (no argument) constructor; this is the default constructor that Java provides, if none is specified, 2) the constructor that contains parameters.
+- The use of static and final keywords in Java was demonstrated. The static keyword in Java, is used primarily for memory management. 
+- Static keywords can be applied with variables, methods, blocks and nested classes.
+- The static keyword belongs to the class, rather than to the instance of the class. A variable is declared as static, by using the keyword 'static'. This static variable can then be used to refer the common properties of objects, for example the company name of employees or the college name of students. 
+- One of the advantages of using a static variable, is that it makes the program memory-efficient. 
+- The final keyword in Java, is used to restrict the user. It can be used in many contexts; as a variable, as a method or as a class. It can be applied with the variables, as a blank final variable that has no value, or as an uninitialized final variable. It can be initialized in the constructor only. 
+- The blank final variable can be static also, which will be initialized in the static block only.

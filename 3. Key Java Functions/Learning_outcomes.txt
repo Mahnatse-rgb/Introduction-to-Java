@@ -1,0 +1,11 @@
+After completing this module you will be able to:
+
+- Understand the difference between Java classes and objects
+- Appreciate how software objects, like real-world objects, have states and behaviours
+- Explain how variables, like behaviours, are written for a class
+- Discuss how methods act on data and return values
+- Describe how 'get' and 'return' methods function
+- Define what the 'PrintIn' function does
+- Distinguish between 'getters' and 'setters'
+- Outline the features of constructors
+- Compare and contrast static and final keywords
