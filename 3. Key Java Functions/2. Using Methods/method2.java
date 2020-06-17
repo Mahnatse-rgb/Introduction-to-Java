@@ -2,14 +2,16 @@
 used to save time performing functions.*/
 
 public class method2{
+  int x = 0;
+  int y = 1;
 
   public static void main(String[] args){
-    for(int x = 0; x < 5 ; x++){
+    for(int i = 0; i < 5 ; i++){
       counter();
     }
   }
-  public static void counter(){
-    for(int x = 1; x <=5; x++){
+  public void counter(){
+    for(int i = 1; i <=5; i++){
       System.out.print(x);
     }
   }

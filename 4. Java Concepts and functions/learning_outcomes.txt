@@ -1,0 +1,10 @@
+Learning Outcomes
+After completing this module you will be able to:
+
+
+- Build and format strings in Java, using the String builder method
+- Represent any object as a string, using the ToString method
+- Outline the concept of Inheritance in Java
+- Use a package to organise Java classes and interfaces
+- Explain why interface methods must be implemented by a class
+- Describe the relationship of Java access modifiers to keywords and packages
